@@ -239,3 +239,6 @@ This repository serves as the official landing page for Tomb Raider Legend. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Tomb Raider Legend today!**
+
+---
+**Last updated:** 2026-09-11 09:24:40 UTC

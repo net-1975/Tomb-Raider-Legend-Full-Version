@@ -241,4 +241,4 @@ This repository serves as the official landing page for Tomb Raider Legend. The 
 **Get the most recent version of Tomb Raider Legend today!**
 
 ---
-**Last updated:** 2026-10-25 13:01:29 UTC
+**Last updated:** 2026-10-25 17:28:33 UTC
